@@ -10,3 +10,5 @@ go run client/main.go &
 
 test...
 http://localhost:8088/mult/22341421/3124124124
+NOTE: I have used port 8088 not 8080 as in the tutorial because I was already using port 8080
+(this is set at the bottom of client/main.go)
